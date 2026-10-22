@@ -1,6 +1,6 @@
 # Pokémon VGC Battle AI
 
-An AI that plays **Pokémon Champions VGC doubles** (Regulation M-C) on Pokémon Showdown. It combines a neural network with simulator-based lookahead search, learns from high-rated human replays, and keeps improving through nightly self-play.
+This was an attempt at an AI that plays **Pokémon Champions VGC doubles** (Regulation M-C) on Pokémon Showdown. It combines a neural network with simulator-based lookahead search, learns from high-rated human replays, and keeps improving through nightly self-play.
 
 > This repository documents the project. The source code is not published.
 
